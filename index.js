@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = [""];
+const statusMessages = ["Играет в Celestial Role Play"];
 
 
 let currentIndex = 0;
